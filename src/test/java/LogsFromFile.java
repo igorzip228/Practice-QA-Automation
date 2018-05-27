@@ -99,3 +99,4 @@ public class LogsFromFile {
         }
     }
 }
+//return text.split("\\n");
